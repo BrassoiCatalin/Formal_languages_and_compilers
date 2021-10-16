@@ -26,6 +26,7 @@
     <ClCompile Include="Exercitiul5.cpp" />
     <ClCompile Include="Exercitiul6.cpp" />
     <ClCompile Include="Exercitiul7.cpp" />
+    <ClCompile Include="Exercitiul8.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +37,7 @@
     <ClInclude Include="Exercitiul5.h" />
     <ClInclude Include="Exercitiul6.h" />
     <ClInclude Include="Exercitiul7.h" />
+    <ClInclude Include="Exercitiul8.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
