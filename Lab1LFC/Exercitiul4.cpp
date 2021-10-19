@@ -22,19 +22,20 @@ void Exercitiul4::wordCount(std::string string)
 
 	for (int index = 0; index < copy.length(); index++)
 	{
-		std::string tempString1;
-		tempString1.push_back(copy[index]);
+		std::string letterByLetter;
+		letterByLetter.push_back(copy[index]);
 
-		if (!std::regex_match(tempString1, letter) || index == copy.length() - 1)
+		if (!std::regex_match(letterByLetter, letter) || index == copy.length() - 1)
 		{
 			bool condition = false;
 
 			for (int index1 = 0; index1 < index; index1++)
 			{
-				std::string tempString;
-				tempString.push_back(copy[index1]);
+				std::string word;
+				word.push_back(copy[index1]);
 
-				if (std::regex_match(tempString, letter)) {
+				if (std::regex_match(word, letter)) 
+				{
 					condition = true;
 					std::cout << copy[index1];
 				}

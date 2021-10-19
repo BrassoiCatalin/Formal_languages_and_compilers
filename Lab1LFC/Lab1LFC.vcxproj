@@ -39,6 +39,9 @@
     <ClInclude Include="Exercitiul7.h" />
     <ClInclude Include="Exercitiul8.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="words.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

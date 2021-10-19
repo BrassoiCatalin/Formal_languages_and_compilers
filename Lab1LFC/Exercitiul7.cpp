@@ -17,6 +17,7 @@ void Exercitiul7::inputData(std::vector<std::string>& stringVector, std::string&
 	std::cout << "Vector dimension: ";
 	std::cin >> dimension;
 
+	std::cout << "Tour input words are: ";
 	for (int index = 0; index < dimension; index++)
 	{
 		std::cin >> word;
