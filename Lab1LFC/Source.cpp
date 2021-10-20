@@ -7,72 +7,93 @@
 #include "Exercitiul7.h"
 #include "Exercitiul8.h"
 
-void startProgram()//ce se intampla in acest switch??
+void menu()
 {
-	int option;
+	std::cout << "Choose number 1 for exercise 1.\n";
+	std::cout << "Choose number 2 for exercise 2.\n";
+	std::cout << "Choose number 3 for exercise 3.\n";
+	std::cout << "Choose number 4 for exercise 4.\n";
+	std::cout << "Choose number 5 for exercise 5.\n";
+	std::cout << "Choose number 6 for exercise 6.\n";
+	std::cout << "Choose number 7 for exercise 7.\n";
+	std::cout << "Choose number 8 for exercise 8.\n";
+	std::cout << "Choose number 0 for exit.\n\n";
+}
 
-	std::cout << "Program option: ";
-	std::cin >> option;
+void startProgram()
+{
+	menu();
+	int option = -1;
 
-	switch (option)
+	while (option)
 	{
-	case 1:
-		Exercitiul1 e1;
-		e1.Run();
-		break;
+		std::cout << "\nProgram option: ";
+		std::cin >> option;
+		std::cin.ignore();
 
-	case 2:
-		Exercitiul2 e2;
-		e2.Run();
-		break;
+		switch (option)
+		{
+		case 0:
+			break;
 
-	case 3:
-		Exercitiul3 e3;
-		e3.Run();
-		break;
+		case 1:
+			Exercitiul1 e1;
+			e1.Run();
+			std::cout << '\n';
+			break;
 
-	case 4:
-		Exercitiul4 e4;
-		e4.Run();
-		break;
+		case 2:
+			Exercitiul2 e2;
+			e2.Run();
+			std::cout << '\n';
+			break;
 
-	case 5:
-		Exercitiul5 e5;
-		e5.Run();
-		break;
+		case 3:
+			Exercitiul3 e3;
+			e3.Run();
+			std::cout << '\n';
+			break;
 
-	case 6:
-		Exercitiul6 e6;
-		e6.Run();
-		break;
+		case 4:
+			Exercitiul4 e4;
+			e4.Run();
+			std::cout << '\n';
+			break;
 
-	case 7:
-		Exercitiul7 e7;
-		e7.Run();
-		break;
+		case 5:
+			Exercitiul5 e5;
+			e5.Run();
+			std::cout << '\n';
+			break;
 
-	case 8:
-		Exercitiul8 e8;
-		e8.Run();
-		break;
+		case 6:
+			Exercitiul6 e6;
+			e6.Run();
+			std::cout << '\n';
+			break;
 
-	default:
-		std::cout << "No option is avaliable.";
+		case 7:
+			Exercitiul7 e7;
+			e7.Run();
+			std::cout << '\n';
+			break;
+
+		case 8:
+			Exercitiul8 e8;
+			e8.Run();
+			std::cout << '\n';
+			break;
+
+		default:
+			std::cout << "No option is avaliable.\n\n";
+		}
 	}
-
 }
 
 int main()
 {
-	//startProgram();
-	Exercitiul1 e1;
-	Exercitiul2 e2;
-	Exercitiul3 e3;
-	Exercitiul4 e4;
-	Exercitiul5 e5;
-	Exercitiul6 e6;
-	Exercitiul7 e7;
-	Exercitiul8 e8;
-	e7.Run();
+	startProgram();
+
 	return 0;
 }
+

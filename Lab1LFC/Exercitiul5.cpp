@@ -15,11 +15,13 @@ void Exercitiul5::sortingProgram(int& vectorLenght, std::vector<std::string>& st
 
 	std::cout << "Number of words: ";
 	std::cin >> vectorLenght;
+	std::cin.ignore();
 
 	std::cout << "Your words: ";
 	for (int index = 0; index < vectorLenght; index++)
 	{
 		std::cin >> word;
+		std::cin.ignore();
 		stringVector.push_back(word);
 	}
 

@@ -11,6 +11,7 @@ void Exercitiul2::Run()
 void Exercitiul2::inputData(std::string& number)
 {
 	std::cout << "String input: ";
+	//std::cin.ignore();
 	std::getline(std::cin, number);
 }
 

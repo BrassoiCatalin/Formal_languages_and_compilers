@@ -11,12 +11,12 @@ void Exercitiul6::Run()
 void Exercitiul6::showPrefixes(std::string& word, std::vector<std::string>& prefix)
 {
 	std::cout << "Word input: ";
+	//std::cin.ignore();
 	std::getline(std::cin, word);
 
 	std::string aux;
 	for (int index = 0; index < word.length() - 1; index++)
 	{
-		//aux.resize(index + 1);
 		aux.push_back(word[index]);
 		prefix.push_back(aux);
 	}

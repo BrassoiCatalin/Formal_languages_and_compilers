@@ -13,10 +13,13 @@ void Exercitiul1::Run()
 void Exercitiul1::inputData(std::string& string, std::string& character)
 {
 	std::cout << "Type your string: ";
+	//std::cin.ignore();
 	std::getline(std::cin, string);
 
 	std::cout << "Type your character: ";
 	std::cin >> character;
+	std::cin.ignore();
+
 }
 
 void Exercitiul1::characterSearch(std::string& string, std::string& character)

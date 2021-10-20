@@ -11,6 +11,7 @@ void Exercitiul3::Run()
 void Exercitiul3::inputData(std::string& string, std::string& subString1, std::string& subString2)
 {
 	std::cout << "Initial string: ";
+	//std::cin.ignore();
 	std::getline(std::cin, string);
 
 	std::cout << "First Substring: ";

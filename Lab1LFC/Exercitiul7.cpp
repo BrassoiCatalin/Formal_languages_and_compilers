@@ -16,16 +16,19 @@ void Exercitiul7::inputData(std::vector<std::string>& stringVector, std::string&
 
 	std::cout << "Vector dimension: ";
 	std::cin >> dimension;
+	std::cin.ignore();
 
-	std::cout << "Tour input words are: ";
+	std::cout << "Your input words are: ";
 	for (int index = 0; index < dimension; index++)
 	{
 		std::cin >> word;
+		std::cin.ignore();
 		stringVector.push_back(word);
 	}
 
 	std::cout << "Your substring is: ";
 	std::cin >> subString;
+	std::cin.ignore();
 
 }
 

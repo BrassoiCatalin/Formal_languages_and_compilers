@@ -12,6 +12,7 @@ void Exercitiul4::Run()
 void Exercitiul4::dataInput(std::string& string)
 {
 	std::cout << "Input string: ";
+	//std::cin.ignore();
 	std::getline(std::cin, string);
 }
 
