@@ -1,0 +1,49 @@
+SA
+ab
+S
+S abS
+S aSAb
+S aA
+A aAb
+A a
+
+
+
+SABC
+abc
+S
+S aSBC
+S aBC
+aB ab
+bB bb
+bC bc
+cC Cc
+CB BC
+cB Bc
+
+
+
+SAC
+abcd$
+S
+S AC
+A aAb
+A ab
+C cCd
+C ccd
+C $
+
+SABC
+abc$
+S
+S A
+S B
+S C
+C a
+A b
+B c
+S ABC
+AB C
+CA B
+CB A
+ABC $

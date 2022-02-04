@@ -1,0 +1,4 @@
+﻿  Gramatica.cpp
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab2LFC\Lab2LFC\Gramatica.cpp(206,54): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab2LFC\Lab2LFC\Gramatica.cpp(251,54): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+  Lab2LFC.vcxproj -> C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab2LFC\Debug\Lab2LFC.exe
