@@ -1,0 +1,17 @@
+﻿  AFN.cpp
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(44,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(61,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(72,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(85,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(101,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(103,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(120,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(137,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(155,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(161,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(172,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(188,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(198,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(210,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Lab4LFC\AFN.cpp(216,33): warning C4018: '<': signed/unsigned mismatch
+  Lab4LFC.vcxproj -> C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab4LFC\Debug\Lab4LFC.exe
