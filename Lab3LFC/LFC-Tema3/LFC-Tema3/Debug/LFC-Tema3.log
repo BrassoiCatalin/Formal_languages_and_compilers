@@ -1,0 +1,16 @@
+﻿  AFD.cpp
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(46,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(78,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(92,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(109,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(111,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(126,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(129,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(146,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(149,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(166,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(169,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(187,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(200,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\LFC-Tema3\AFD.cpp(256,29): warning C4018: '<': signed/unsigned mismatch
+  LFC-Tema3.vcxproj -> C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul I\LFC\Laboratoare\Lab3LFC\LFC-Tema3\Debug\LFC-Tema3.exe
